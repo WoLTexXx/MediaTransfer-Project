@@ -1,0 +1,41 @@
+C:\Users\kozlov_mg\Documents\Visual Studio 2013\Projects\bandwidth_meter\Media Transfer\bin\Release\Media Transfer.exe
+C:\Users\kozlov_mg\Documents\Visual Studio 2013\Projects\bandwidth_meter\Media Transfer\bin\Release\Media Transfer.pdb
+C:\Users\kozlov_mg\Documents\Visual Studio 2013\Projects\bandwidth_meter\Media Transfer\obj\Release\MainWindow.baml
+C:\Users\kozlov_mg\Documents\Visual Studio 2013\Projects\bandwidth_meter\Media Transfer\obj\Release\MainWindow.g.cs
+C:\Users\kozlov_mg\Documents\Visual Studio 2013\Projects\bandwidth_meter\Media Transfer\obj\Release\App.g.cs
+C:\Users\kozlov_mg\Documents\Visual Studio 2013\Projects\bandwidth_meter\Media Transfer\obj\Release\Media Transfer_MarkupCompile.cache
+C:\Users\kozlov_mg\Documents\Visual Studio 2013\Projects\bandwidth_meter\Media Transfer\obj\Release\Media Transfer.g.resources
+C:\Users\kozlov_mg\Documents\Visual Studio 2013\Projects\bandwidth_meter\Media Transfer\obj\Release\Media_Transfer.Properties.Resources.resources
+C:\Users\kozlov_mg\Documents\Visual Studio 2013\Projects\bandwidth_meter\Media Transfer\obj\Release\Media Transfer.csproj.GenerateResource.Cache
+C:\Users\kozlov_mg\Documents\Visual Studio 2013\Projects\bandwidth_meter\Media Transfer\obj\Release\Media Transfer.exe
+C:\Users\kozlov_mg\Documents\Visual Studio 2013\Projects\bandwidth_meter\Media Transfer\obj\Release\Media Transfer.pdb
+C:\Users\kozlov_mg\Documents\Visual Studio 2013\Projects\bandwidth_meter\Media Transfer\obj\Release\Media Transfer.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\Visual Studio 2015\Projects\Media Transfer\Media Transfer\obj\Release\Media Transfer.exe
+C:\Users\1\Documents\Visual Studio 2015\Projects\Media Transfer\Media Transfer\obj\Release\Media Transfer.pdb
+C:\Users\1\Documents\Visual Studio 2015\Projects\Media Transfer\Media Transfer\bin\Release\Media Transfer.exe
+C:\Users\1\Documents\Visual Studio 2015\Projects\Media Transfer\Media Transfer\bin\Release\Media Transfer.pdb
+C:\Users\1\Documents\Visual Studio 2015\Projects\Media Transfer\Media Transfer\obj\Release\Media Transfer.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\Visual Studio 2015\Projects\Media Transfer\Media Transfer\obj\Release\MainWindow.baml
+C:\Users\1\Documents\Visual Studio 2015\Projects\Media Transfer\Media Transfer\obj\Release\MainWindow.g.cs
+C:\Users\1\Documents\Visual Studio 2015\Projects\Media Transfer\Media Transfer\obj\Release\App.g.cs
+C:\Users\1\Documents\Visual Studio 2015\Projects\Media Transfer\Media Transfer\obj\Release\Media Transfer_MarkupCompile.cache
+C:\Users\1\Documents\Visual Studio 2015\Projects\Media Transfer\Media Transfer\obj\Release\Media Transfer.g.resources
+C:\Users\1\Documents\Visual Studio 2015\Projects\Media Transfer\Media Transfer\obj\Release\Media_Transfer.Properties.Resources.resources
+C:\Users\1\Documents\Visual Studio 2015\Projects\Media Transfer\Media Transfer\obj\Release\Media Transfer.csproj.GenerateResource.Cache
+C:\Users\Аня\Documents\Visual Studio 2015\Projects\Media Transfer\Media Transfer\obj\Release\Media Transfer.exe
+C:\Users\Аня\Documents\Visual Studio 2015\Projects\Media Transfer\Media Transfer\obj\Release\Media Transfer.pdb
+C:\Users\Аня\Documents\Visual Studio 2015\Projects\Media Transfer\Media Transfer\bin\Release\Media Transfer.exe.config
+C:\Users\kozlov_mg\Documents\Visual Studio 2013\Projects\bandwidth_meter\Media Transfer\Media Transfer\Media Transfer\bin\Release\Media Transfer.exe.config
+C:\Users\kozlov_mg\Documents\Visual Studio 2013\Projects\bandwidth_meter\Media Transfer\Media Transfer\Media Transfer\obj\Release\Media Transfer.exe
+C:\Users\kozlov_mg\Documents\Visual Studio 2013\Projects\bandwidth_meter\Media Transfer\Media Transfer\Media Transfer\obj\Release\Media Transfer.pdb
+C:\Users\kozlov_mg\Documents\Visual Studio 2013\Projects\bandwidth_meter\Media Transfer\Media Transfer\Media Transfer\bin\Release\Media Transfer.exe
+C:\Users\kozlov_mg\Documents\Visual Studio 2013\Projects\bandwidth_meter\Media Transfer\Media Transfer\Media Transfer\bin\Release\Media Transfer.pdb
+C:\Users\kozlov_mg\Documents\Visual Studio 2013\Projects\bandwidth_meter\Media Transfer\Media Transfer\Media Transfer\obj\Release\Media Transfer.csprojResolveAssemblyReference.cache
+C:\Users\kozlov_mg\Documents\Visual Studio 2013\Projects\bandwidth_meter\Media Transfer\Media Transfer\Media Transfer\obj\Release\MainWindow.baml
+C:\Users\kozlov_mg\Documents\Visual Studio 2013\Projects\bandwidth_meter\Media Transfer\Media Transfer\Media Transfer\obj\Release\MainWindow.g.cs
+C:\Users\kozlov_mg\Documents\Visual Studio 2013\Projects\bandwidth_meter\Media Transfer\Media Transfer\Media Transfer\obj\Release\App.g.cs
+C:\Users\kozlov_mg\Documents\Visual Studio 2013\Projects\bandwidth_meter\Media Transfer\Media Transfer\Media Transfer\obj\Release\Media Transfer_MarkupCompile.cache
+C:\Users\kozlov_mg\Documents\Visual Studio 2013\Projects\bandwidth_meter\Media Transfer\Media Transfer\Media Transfer\obj\Release\Media Transfer.g.resources
+C:\Users\kozlov_mg\Documents\Visual Studio 2013\Projects\bandwidth_meter\Media Transfer\Media Transfer\Media Transfer\obj\Release\Media_Transfer.Properties.Resources.resources
+C:\Users\kozlov_mg\Documents\Visual Studio 2013\Projects\bandwidth_meter\Media Transfer\Media Transfer\Media Transfer\obj\Release\Media Transfer.csproj.GenerateResource.Cache
+C:\Users\kozlov_mg\Documents\Visual Studio 2013\Projects\bandwidth_meter\Media Transfer\bin\Release\Media Transfer.exe.config
